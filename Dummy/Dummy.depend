@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570937972 source:/ilab/users/srh155/Desktop/MyMalloc/Dummy/main.c
+	<stdio.h>
+	<stdlib.h>
+
